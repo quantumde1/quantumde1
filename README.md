@@ -12,4 +12,5 @@ My OS is <img height="16" width="16" src="https://raw.githubusercontent.com/Egoi
 My main IDE is <img height="16" width="16" src="https://cdn.simpleicons.org/visualstudiocode" /> \
 <div>
   <img height="180em" width="392em" src="https://github-readme-stats.vercel.app/api?username=quantumde1&show_icons=true"/>
+  <img height="180em" width="392em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashimiv&langs_count=6&layout=compact&theme=github_dark"/>
 </div>
