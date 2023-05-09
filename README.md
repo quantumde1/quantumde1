@@ -8,7 +8,7 @@ My main language is D, idk why, but i really love it)
 - Email: <a href="mailto:meserakovarsenij810@gmail.com">meserakovarsenij810@gmail.com</a> <img height="16" width="16" src="https://cdn.simpleicons.org/gmail" />
 
 Programming languages & frameworks: <img height="16" width="16" src="https://cdn.simpleicons.org/python" /> <img height="16" width="16" src="https://cdn.simpleicons.org/d" /> <img height="16" width="16" src="https://cdn.simpleicons.org/cplusplus" /> <img height="16" width="16" src="https://cdn.simpleicons.org/gtk" /> \
-My OS is <img height="16" width="16" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/16x16/COS.png" /> \
+My OS is <img height="16" width="16" src="https://cdn.simpleicons.org/chrome" /> \
 My main IDE is <img height="16" width="16" src="https://cdn.simpleicons.org/visualstudiocode" /> 
 <div>
   <img height="180em" width="392em" src="https://github-readme-stats.vercel.app/api?username=quantumde1&show_icons=true&layout=compact&theme=github_dark"/>
