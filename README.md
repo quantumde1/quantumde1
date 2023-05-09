@@ -8,6 +8,5 @@
 Могу, умею практикую: <img height="16" width="16" src="https://cdn.simpleicons.org/python" /> <img height="16" width="16" src="https://cdn.simpleicons.org/d" /> <img height="16" width="16" src="https://cdn.simpleicons.org/cplusplus" /> <img height="16" width="16" src="https://cdn.simpleicons.org/gtk" />
 Использую: <img height="16" width="16" src="https://cdn.simpleicons.org/visualstudiocode" /> <img height="16" width="16" src="https://cdn.simpleicons.org/clion" />  <img height="54" width="256" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Google_Chrome_OS_logo.png" />
 <div>
-  <img height="180em" width="392em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashimiv&langs_count=6&layout=compact&theme=github_dark"/>
+  <img height="180em" width="392em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantumde1&langs_count=6&layout=compact&theme=github_dark"/>
 </div>
-<img src="https://cdn.discordapp.com/attachments/1056944131332657272/1101026778857865308/image.png" height="256px">
