@@ -1,6 +1,6 @@
 Hi!👋
 
-I'm Arseniy Mesherakov, 13 yo developer from Russia. \
+I'm Arseniy Mesherakov, 14 yo developer from Russia. \
 My main language is D, idk why, but i really love it)
 ### Contact with me!
 - VK : <a href="https://vk.com/quantumde1">vk.com/quantumde1</a> <img height="16" width="16" src="https://cdn.simpleicons.org/vk" />
