@@ -8,7 +8,7 @@ My main languages is D and Kotlin
 - Matrix: <a href="https://matrix.to/#/@quantumde1:underlevel.ddns.net">@quantumde1:underlevel.ddns.net</a> <img height="16" width="16" src="https://cdn.simpleicons.org/matrix" />
 
 Programming languages & frameworks: <img height="16" width="16" src="https://cdn.simpleicons.org/d" /> <img height="16" width="16" src="https://cdn.simpleicons.org/kotlin" /> <img height="16" width="16" src="https://cdn.simpleicons.org/jetpackcompose" /> \
-My OS is <img height="16" width="16" src="[/googlechrome](https://cdn.simpleicons.org/alpinelinux)" /> with Dynamic Window Manager. \
+My OS is <img height="16" width="16" src="https://cdn.simpleicons.org/alpinelinux" /> with Dynamic Window Manager. \
 My main IDE is <img height="16" width="16" src="https://cdn.simpleicons.org/visualstudiocode" /> 
 <div>
 
