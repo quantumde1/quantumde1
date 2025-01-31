@@ -1,9 +1,13 @@
-im Arseniy Mesherakov, 15yo dev from Russia
+im Arseniy Mesherakov, 15yo dev from Russia.
+Im developer in C, D and Kotlin.
 
-Developing in Dlang, C, Kotlin.
+My favorite software:
 
-Favorite OS - FreeBSD
+OS: FreeBSD
+IDE: Kate
+Language: D
+Desktop Environment: Unity/Pantheon
 
-IDE - Kate
+Also, i like NiGHTS and Sonic series.
 
-Currently, i'm fan of NiGHTS into Dreams... and i'm creating port to raylib
+Have a nice day!
