@@ -3,9 +3,12 @@ Im developer in C, D and Kotlin.
 
 My favorite software:
 
-OS: FreeBSD
-IDE: Kate
-Language: D
+OS: FreeBSD 
+
+IDE: Kate 
+
+Language: D 
+
 Desktop Environment: Unity/Pantheon
 
 Also, i like NiGHTS and Sonic series.
