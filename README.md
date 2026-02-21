@@ -11,7 +11,7 @@ Language: D
 
 Desktop Environment: WindowMaker & GTK2/GNUstep apps
 
-I like Infinity/SciADV visual novels, Silent Hill, Half Life, Team Fortess 2, Terraria, Minecraft, Sonic and NiGHTS ino Dreams... series. 
+I like Infinity/SciADV visual novels, Silent Hill, NieR, Persona/Megami Tensei, Shadow of the Colossus/Ico/TLG series. 
 Have a nice day!
 
 p.s maybe some of my repositories are stored in https://underlevel.ddns.net/git
