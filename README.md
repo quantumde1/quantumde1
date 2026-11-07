@@ -9,7 +9,7 @@ IDE: code-oss
 
 Language: D 
 
-Desktop Environment: WindowMaker & GTK2/GNUstep apps
+OS: Haiku
 
 I like Infinity/SciADV visual novels, Silent Hill, NieR, Persona/Megami Tensei, Shadow of the Colossus/Ico/TLG series. 
 Have a nice day!
